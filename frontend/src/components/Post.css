@@ -1,0 +1,21 @@
+
+.Post-comments {
+  margin-top: 2em;
+  padding-top: 0.5em;
+  border-top: solid 1px gray;
+}
+
+.Comments-wrapped {
+  border: 2px solid black;
+  background: linear-gradient(90deg, rgba(227, 108, 238, 0.507) 0%, rgba(35, 8, 109, 0.664) 100%);
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  padding: 10px;
+  color: black;
+  font-family: monospace;
+}
+
+h4 {
+  color:white;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  text-align: center;
+}

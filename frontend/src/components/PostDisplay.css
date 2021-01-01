@@ -1,0 +1,44 @@
+.PostDisplay {
+  position: relative;
+  background: linear-gradient(90deg, rgba(245, 133, 255, 0.507) 0%, rgb(35, 8, 109) 100%);
+  color: white;
+  font-family: monospace;
+  font-size: 30px;
+  border: 5px solid black;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.PostDisplay-right {
+  position: relative;
+  right: 0;
+  top: 1em;
+  text-align: right;
+  padding: 20px;
+}
+
+.PostDisplay-right i {
+  margin-left: 1em;
+}
+
+span {
+  font-size: 30px;
+  font-family: monospace;
+  color: rgb(105, 247, 105);
+}
+
+.votes-count-pos {
+  font-size: 50px;
+  color: greenyellow;
+}
+
+.votes-count-neg {
+  font-size: 50px;
+  color: red;
+}
+
+.lineBlock {
+  padding: 20px;
+  margin: 20px;
+}

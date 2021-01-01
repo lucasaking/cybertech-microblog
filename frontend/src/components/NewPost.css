@@ -1,0 +1,22 @@
+.NewPostForm {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: solid 1px gray;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+}
+
+.Post-c {
+  border: 5px solid black;
+  background: linear-gradient(90deg, rgba(245, 133, 255, 0.507) 0%, rgb(109, 8, 75) 100%);
+  padding: 20px;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 15px;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  color: black;
+}
+
+.lineBlock {
+  padding: 20px;
+  margin: 20px;
+}

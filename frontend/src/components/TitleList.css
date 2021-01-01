@@ -1,0 +1,24 @@
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Title-wrapper {
+  border: 2px solid black;
+  background: linear-gradient(90deg, rgba(245, 133, 255, 0.507) 0%, rgb(109, 8, 75) 100%);
+  padding: 10px;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+.Title-empty {
+  border: 2px solid black;
+  background: linear-gradient(90deg, rgba(245, 133, 255, 0.507) 0%, rgb(109, 8, 75) 100%);
+  padding: 10px;
+  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  font-family: fantasy;
+  font-weight: bolder;
+  color: white;
+}
