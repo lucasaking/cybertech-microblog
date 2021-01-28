@@ -8,7 +8,7 @@
 
 # Getting Started with Microblog
 
-This APP is a Social Media platform to post and share personal Blogs. Available in a self updating seasonal nature theme, or a fun Cyber tech blogging theme.  Comment, Upvote, Downvote and more. The APP was created with React/Redux for the Front End and using Express/Node/Postgres for the Back End. The database must be set up with the included SQL file before using the APP. 
+This APP is a Social Media platform to post and share personal Blogs. Comment, Upvote, Downvote and more. The APP was created with React/Redux for the Front End and using Express/Node/Postgres for the Back End. The database must be set up with the included SQL file before using the APP. 
 
 ## Noteable Languages, libraries, frameworks
 
