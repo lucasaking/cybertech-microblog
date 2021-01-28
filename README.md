@@ -1,4 +1,8 @@
-# Cybertech Microblog
+# Microblog
+
+<img src=".\screenshot_02.png" width="800px" height="auto">
+
+<br>
 
 <img src=".\screenshot_01.png" width="800px" height="auto">
 

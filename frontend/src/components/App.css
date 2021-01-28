@@ -2,15 +2,11 @@ nav a { margin-right: 1em; color:white; font-family: monospace; text-decoration:
 
 nav a.active { font-weight: bold; color:black; font-family: monospace; }
 
-/* .App-wrapper {
-  background-color: black;
-} */
-
 .Retro {
-  background: linear-gradient(90deg, rgba(245, 133, 255, 0.507) 0%, rgb(109, 8, 75) 100%);
+  background: linear-gradient(90deg, rgba(255, 235, 209, 0.507) 0%, rgb(59, 58, 52) 100%);
   padding: 20px;
   border: 3px solid black;
-  box-shadow: 0 0 3px 5px rgb(15, 187, 255);
+  box-shadow: 0 0 1px 3px rgb(185, 225, 241);
   font-family: monospace;
   font-size: 20px;
   text-align: center;
@@ -19,14 +15,7 @@ nav a.active { font-weight: bold; color:black; font-family: monospace; }
 
 .Retro-custom {
   fill-opacity: inherit;
-  color: rgb(20, 20, 124);
-  animation: color-change 1s infinite;
-}
-
-@keyframes color-change {
-  0% { color: rgb(0, 132, 255); }
-  50% { color: white; }
-  100% { color: rgb(45, 4, 58); }
+  color: white;
 }
 
 .navigation-retro {
@@ -35,7 +24,7 @@ nav a.active { font-weight: bold; color:black; font-family: monospace; }
   background: rgba(255, 255, 255, 0.459);
   border-radius: 10px;
   text-align: center;
-  box-shadow: 0 0 3px 10px rgb(15, 187, 255);
+  box-shadow: 0 0 2px 3px rgb(178, 219, 235);
 }
 
 .Retro-seperator {

@@ -22,12 +22,12 @@ function App() {
       <div className="App container">
         <header>
           <div className="Retro">
-            <h1 className="Retro-custom">-=CYBERTECH-BLOG=-</h1>
-            <p className="lead"> Get in the Rithm of tech-blogging! </p>
+            <h1 className="Retro-custom">Microblog</h1>
+            <p className="lead"> Start sharing your personal blog below! </p>
             <nav className="navigation-retro">
-              <b className="emoji">👾</b>
+              {/* <b className="emoji">👾</b> */}
               <NavLink exact to="/">BLOG</NavLink>
-              <b className="emoji">👾</b>
+              {/* <b className="emoji">👾</b> */}
               <NavLink exact to="/new">ADD POST</NavLink>
             </nav>
           </div>

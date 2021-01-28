@@ -1,9 +1,7 @@
 .Comment-container {
-  /* background: linear-gradient(90deg, rgba(78, 2, 85, 0.507) 0%, rgb(13, 4, 53) 100%); */
   background: white;
   margin: 10px;
-  border: 1px solid black;
-  box-shadow: 0 0 3px 1px rgb(15, 187, 255);
+  box-shadow: 0 0 3px 1px rgb(197, 229, 241);
   padding: 5px;
   color: black;
   font-size: 22px;
